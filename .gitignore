@@ -1,0 +1,12 @@
+# OS Junk Files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary Files
+*.bak
+*.tmp
+*.log
+
+# Node dependencies (just in case)
+node_modules/
