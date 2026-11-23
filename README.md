@@ -1,4 +1,5 @@
 # 🚀 Zed Config + Repomix
+[🇮🇩 Bahasa Indonesia](README.md) | [🇬🇧 English](README.en.md)
 
 Integrasi CLI **[Repomix](https://github.com/yamadashy/repomix)** ke dalam **Zed Editor** secara ringan dan instan.
 
